@@ -1,4 +1,4 @@
-#& simple
+#quick and simple
 
 #create new dev
 
