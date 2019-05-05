@@ -1,7 +1,3 @@
-#no-ff merge
-
-#create new dev
-
 #2019.5.4
 
 # github_tutorials
